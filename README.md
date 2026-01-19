@@ -98,6 +98,19 @@ As a consequence, these methods may also be applicable to:
 However, such applications are **secondary effects**, not the primary goal.
 
 
+## Possible Applications (Exploratory)
+
+One possible application of this framework is the detection of abusive or
+harassing language that relies on rapidly changing slang, euphemisms,
+or proper names.
+
+Rather than matching words, the approach would examine whether
+a structure of devaluation, exclusion, or asymmetric targeting
+is preserved across register or language reconstruction.
+
+This is not implemented here and remains an open research direction.
+
+
 ## Positioning of This Repository
 
 This project is **not**:
